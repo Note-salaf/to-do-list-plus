@@ -30,4 +30,5 @@ README.md
 - Boas práticas de organização de código
 
 ## 🔗 Demo
-[Veja o projeto funcionando](SEU_LINK_AQUI)
+[Veja o projeto funcionando](https://note-salaf.github.io/to-do-list-plus/)
+
